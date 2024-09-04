@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Mike
 - 💻 Software Engineer | Aiuta
 - 👀 Kotlin
-- Let's rock 🤟
+- 🤟 Let's rock
